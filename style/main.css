@@ -1,7 +1,7 @@
 div {border:3px solid orange;
   	 height: 300px;
   	 width: 300px;
-  	 /*margin: 20px;*/} /*he quitado la propiedad margin a las cajas*/
+  	 margin: 1px;} /*margin es mas pequeño que la version "separados"*/
 
  #titulo{ font-weight: bold;}
  
