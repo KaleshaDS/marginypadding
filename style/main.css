@@ -1,6 +1,7 @@
 div {border:3px solid orange;
   	 height: 300px;
-  	 width: 300px;}
+  	 width: 300px;
+  	 margin: 20px;}
 
  #titulo{ font-weight: bold;}
  
